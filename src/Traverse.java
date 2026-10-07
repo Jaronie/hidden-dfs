@@ -70,4 +70,8 @@ public class Traverse {
     v23.neighbors = new ArrayList<>(List.of());
     v67.neighbors = new ArrayList<>(List.of(v91));
   }
+
+  public static void printGossipers(Person initial) {
+    
+  }
 }
